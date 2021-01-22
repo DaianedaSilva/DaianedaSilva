@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Daiane da Silva 
 
-<!--
-**DaianedaSilva/DaianedaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at **[Creditas](https://www.creditas.com/?experiment=CRMIT-009b)** 💚🚀
