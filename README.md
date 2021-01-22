@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianedaSilva&layout=compact&hide=html&langs_count=6" alt="DaianedaSilva" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaianedaSilva&show_icons=true" alt="DaianedaSilva" /></p>
