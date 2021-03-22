@@ -8,11 +8,15 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **daiane.supereira@gmail.com**
 
+### :handshake: Contact Me
+
 <a href="https://www.linkedin.com/in/daiane-da-silva-urias-pereira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 
 <br>
 ![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
 <br>
+[![DaianedaSilva GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daiane&show_icons=true&theme=tokyonight)](https://github.com/DaianedaSilva)
+
 
 <br>
 <br>
