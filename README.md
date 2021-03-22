@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
 
 <br>
-[![DaianedaSilva GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daiane&show_icons=true&theme=tokyonight)](https://github.com/DaianedaSilva)
+
 
 
 <br>
