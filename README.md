@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Daiane da Silva 
 
-![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
-<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at **[Creditas](https://www.creditas.com/?experiment=CRMIT-009b)** 💚🚀
@@ -10,7 +8,12 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **daiane.supereira@gmail.com**
 
-![GitHub Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/DaianedaSilva)
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/DaianedaSilva)
+
+<br>
+
+![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
+<br>
 
 <br>
 <br>
