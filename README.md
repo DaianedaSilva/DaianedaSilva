@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **daiane.supereira@gmail.com**
 
+![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
+
+
 
 ![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
 
