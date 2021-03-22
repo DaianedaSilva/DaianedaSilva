@@ -10,10 +10,9 @@ Here are some ideas to get you started:
 
 ### :handshake: Contact Me
 
-<a href="https://www.linkedin.com/in/daiane-da-silva-urias-pereira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/daiane-da-silva-urias-pereira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a> [![Gmail Badge](https://img.shields.io/badge/-Contato-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daiane.supereira@gmail.com)](mailto:daiane.supereira@gmail.com)
 
 <br>
-![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
 
 ![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
 
