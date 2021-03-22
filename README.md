@@ -8,10 +8,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **daiane.supereira@gmail.com**
 
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-da-silva-urias-pereira/)
+<a href="https://www.linkedin.com/in/daiane-da-silva-urias-pereira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 
 <br>
-
 ![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
 <br>
 
