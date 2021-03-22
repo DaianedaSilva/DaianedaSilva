@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Daiane da Silva 
 
+![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at **[Creditas](https://www.creditas.com/?experiment=CRMIT-009b)** 💚🚀
@@ -16,7 +18,6 @@ Here are some ideas to get you started:
 <br>
 
 
-![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianedaSilva&layout=compact&hide=html&langs_count=6" alt="DaianedaSilva" /></p>
 
