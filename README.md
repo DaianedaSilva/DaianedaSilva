@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **daiane.supereira@gmail.com**
 
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/DaianedaSilva)
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-da-silva-urias-pereira/)
 
 <br>
 
