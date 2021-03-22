@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <br>
 ![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
 
-![daiane](https://komarev.com/ghpvc/?username=daiane)
+![DaianedaSilva](https://komarev.com/ghpvc/?username=DaianedaSilva)
 
 <br>
 
