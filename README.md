@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at **[Creditas](https://www.creditas.com/?experiment=CRMIT-009b)** 💚🚀
+- 🔭 I’m currently working at **[Nubank](https://nubank.com.br/)** 💜🚀
 
-- 🌱 I’m currently learning **Web development** and **data science**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **daiane.supereira@gmail.com**
 
